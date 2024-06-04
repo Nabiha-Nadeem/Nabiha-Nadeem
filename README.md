@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello! 👋 It's [Nabiha Nadeem](https://www.linkedin.com/in/nabiha-nadeem-dev/)
+<br />
 
-<!--
-**Nabiha-Nadeem/Nabiha-Nadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Experienced Full-Stack Developer:**
 
-Here are some ideas to get you started:
+With over 2 years of experience, I've honed my skills in delivering scalable software solutions across a tech landscape that includes Rails, Python, JavaScript, PostgreSQL, and AWS. Beyond coding, my passion lies in cultivating a development culture that values excellence. I actively advocate for TDD, BDD, SOLID principles, and clean code architecture, ensuring every project meets the highest standards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**More about My Development Journey:**
+
+- 🔭 Proficient in full-stack development with a dedicated focus on Rails, Python, HTML, CSS, JavaScript, and more.
+- 🌱 Advocate for coding excellence, emphasizing not only TDD, BDD, and SOLID principles but also a keen eye for intuitive and user-centric design.
+- 👯 Guiding projects through agile methodologies and the SDLC, I thrive in creating robust and efficient software solutions. 
+- 🌐 As a global collaborator, I cherish connecting with diverse minds and perspectives, fostering a rich environment for innovative solutions.
+
+Let's not just build impactful solutions but also foster a vibrant community in the ever-evolving world of software development! 💻🌟   
+
+## 🛠️ Tech Stack:
+
+![Ruby on Rails](https://img.shields.io/badge/Rails-%23CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  ![Sinatra](https://img.shields.io/badge/Sinatra-%23CC342D?style=for-the-badge&logo=sinatra&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)   ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)   ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JQuery](https://img.shields.io/badge/JQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=for-the-badge&logo=heroku&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230076D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-%230076D6?style=for-the-badge&logo=mysql&logoColor=white)  ![RESTful](https://img.shields.io/badge/RESTful-%23000000?style=for-the-badge&logo=rest&logoColor=white)   ![GraphQL](https://img.shields.io/badge/GraphQL-%23E434AA?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=jira&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-%230A0FFF?style=for-the-badge&logo=trello&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)   ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E24A33?style=for-the-badge&logo=matplotlib&logoColor=white)   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)   ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)   ![RSpec](https://img.shields.io/badge/RSpec-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Sidekiq](https://img.shields.io/badge/Sidekiq-%23009285?style=for-the-badge&logo=ruby&logoColor=white)  ![Active Admin](https://img.shields.io/badge/Active%20Admin-%234A4A4A?style=for-the-badge&logo=ruby&logoColor=white)  ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)   
